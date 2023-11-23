@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MyComp.qml</file>
+        <file>ColorBlock.qml</file>
+        <file>TextBlock.qml</file>
+        <file>ButtonComp.qml</file>
+    </qresource>
+</RCC>
